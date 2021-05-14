@@ -1,0 +1,26 @@
+body{
+	background: orange;
+	color: black;
+}
+
+.inp{
+	border: 2px solid red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+
+}
+
+h1{
+	color: red;
+	margin: 3px;
+	text-transform: uppercase;
+}
+
+input{
+	color: #555;
+	margin: 10px;
+	align-items: center;
+	justify-content: center;
+}
